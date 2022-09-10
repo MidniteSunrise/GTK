@@ -6,7 +6,7 @@
 
 ## Install
 
-All instructions can be found at [minimal-mistakes.xyz/gtk](https://minimal-mistakes.xyz/apps/themes/gtk).
+All instructions can be found at [minimalmistakes.org/gtk](https://minimalmistakes.org/apps/themes/gtk).
 
 ## Team
 
